@@ -17,4 +17,4 @@ These are the set of problems in “Project Euler” that I solved using C#:<br>
 
 ### Installation
 
-They are written in C#, and you can run all of these using the visual studio.
+They are written in C#, and you can run all of these using visual studio.
